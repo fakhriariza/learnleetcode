@@ -13,8 +13,7 @@ class Solution {
 					if (j < secStringLength) {
 						builder.append(word2.get(j++))
 					}
-				}
-                
+				}   
 				return builder.toString()
     }
 }
